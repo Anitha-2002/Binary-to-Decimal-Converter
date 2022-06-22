@@ -14,9 +14,9 @@ APPLICATION INFORMATION:
 
 •	Version:	“1.0”
 
-•	Updated on:	27.04.2022
+•	Updated on:	15.06.2022
 
-•	Released on:	27.04.2021
+•	Released on:	15.06.2022
 
 •	Download size: 4 mb
 
