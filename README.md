@@ -1,4 +1,4 @@
-# Mobile-App-Development-Mini-Project
+# MAD mini project Binary to Decimal converter
 TABLE OF CONTENTS
 
 •	Application Information
