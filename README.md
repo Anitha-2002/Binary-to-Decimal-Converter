@@ -1,9 +1,14 @@
 # Mobile-App-Development-Mini-Project
 TABLE OF CONTENTS
+
 •	Application Information
+
 •	Application Description
+
 •	How to install SRS Binary to Decimal Converter APK for Android?
+
 •	How to install SRS Binary to Decimal Converter APK for PC (Windows 7/8/10 or MAC)?
+
 
 APPLICATION INFORMATION:
 
